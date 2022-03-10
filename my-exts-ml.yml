@@ -1,0 +1,28 @@
+name: my-exts-ml
+channels:
+  - conda-forge
+  - anaconda
+dependencies:
+  - python=3.9
+  - numpy>=1.19.5
+  - scipy>=1.5.3
+  - pandas>=1.1.5
+  - matplotlib>=3.3.4
+  - seaborn>=0.11.2
+  - jupyterlab>=3.2.9
+  - notebook>=6.3.0
+  - jedi>=0.18.0
+  - scikit-learn>=0.24.2
+  - tensorflow=2.6
+  - tensorflow-hub>=0.12.0
+  - requests>=2.27.1
+  - pillow>=8.3.2
+  - graphviz>=2.38
+  - python-graphviz>=0.8.4
+  - beautifulsoup4>=4.10.0
+  - xlrd>=2.0.1
+  - nltk>=3.6.7
+  - pip>=21.3.1
+  - protobuf
+  - tqdm
+  - lxml
